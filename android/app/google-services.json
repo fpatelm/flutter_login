@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863761083258",
+    "firebase_url": "https://midyear-nebula-113706.firebaseio.com",
+    "project_id": "midyear-nebula-113706",
+    "storage_bucket": "midyear-nebula-113706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863761083258:android:f9ee52b302f960b98084c3",
+        "android_client_info": {
+          "package_name": "com.example.uber_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863761083258-hmc3tug2mrkqd9mpcqm2h68nn536uqfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber_clone",
+            "certificate_hash": "6ba748d1e6481a86ba3f5444529935cdc7e382ed"
+          }
+        },
+        {
+          "client_id": "863761083258-i9sejbtre2ucu6lkbkvek6igc076vcgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nDPu5eejVb92rzfK1PscadKcP5eab80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863761083258-i9sejbtre2ucu6lkbkvek6igc076vcgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
